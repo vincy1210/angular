@@ -1,4 +1,4 @@
-# Glossary
+# Glossary- Angular
 
 Angular has its own vocabulary.
 Most Angular terms are common English words or computing terms that have a specific meaning within the Angular system.
